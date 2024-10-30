@@ -1,2 +1,2 @@
 # Mentaculus
-Repo for Mentaculus metadata
+Repo for Mentaculus schema metadata.

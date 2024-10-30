@@ -31,7 +31,8 @@
         "Dollars": "Net Amount",
         "Territory": "Intl Vendor Territory",
         "Performing Artist": "Artist",
-        "CA%": "Share"
+        "CA%": "Share",
+        "Member Share": "Share"
     },
     "HFA": {
         "header_row": 0,

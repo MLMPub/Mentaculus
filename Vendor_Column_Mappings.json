@@ -51,7 +51,8 @@
         "Split": "Share",
         "Owner Publisher Name": "Publishing Entity",
         "Hfa Song Number": "Vendor_ID",
-        "Song Title": "Work Title"
+        "Song Title": "Work Title",
+        "Hfa Commission Rate": "Rate"
     },
     "PRS": {
         "header_row": 0,

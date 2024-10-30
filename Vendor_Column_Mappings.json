@@ -30,7 +30,8 @@
         "EE Share": "Share",
         "Dollars": "Net Amount",
         "Territory": "Intl Vendor Territory",
-        "Performing Artist": "Artist"
+        "Performing Artist": "Artist",
+        "CA%": "Share"
     },
     "HFA": {
         "header_row": 0,

@@ -32,7 +32,8 @@
         "Territory": "Intl Vendor Territory",
         "Performing Artist": "Artist",
         "CA%": "Share",
-        "Member Share": "Share"
+        "Member Share": "Share",
+        "Series Name": "ISWC"
     },
     "HFA": {
         "header_row": 0,

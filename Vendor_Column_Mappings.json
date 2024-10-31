@@ -80,7 +80,8 @@
         "IP3": "Publishing Entity",
         "IP4": "Publishing Entity",
         "Tunecode": "Vendor_ID",
-        "ISWC": "ISWC"
+        "ISWC": "ISWC",
+        "Artist": "Artist"
     },
     "MCPS": {
         "header_row": 0,

@@ -177,8 +177,7 @@
         "artist": "Artist",
         "Musical Work Title": "Work Title",
         "Royalty After Pro-rating": "Net Amount",
-        "Royalty After Pro-Rating": "Net Amount",
-        "Subscription Type": "Source"
+        "Royalty After Pro-Rating": "Net Amount"
     },
     "CMRRA": {
         "header_row": 0,

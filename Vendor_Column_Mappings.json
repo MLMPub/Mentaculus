@@ -123,7 +123,8 @@
         "Number of Usages": "Units",
         "ISWC": "ISWC",
         "Territory": "Intl Vendor Territory",
-        "Distributed Amount": "Net Amount"
+        "Distributed Amount": "Net Amount",
+        "Processing Type": "Rate"
     },
     "SESAC": {
         "header_row": 0,

@@ -177,7 +177,8 @@
         "Musical Work Title": "Work Title",
         "Royalty After Pro-rating": "Net Amount",
         "Royalty After Pro-Rating": "Net Amount",
-        "royalty_usd": "Net Amount"
+        "royalty_usd": "Net Amount",
+        "units": "Units"
     },
     "CMRRA": {
         "header_row": 0,

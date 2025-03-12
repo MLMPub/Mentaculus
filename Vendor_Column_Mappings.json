@@ -180,7 +180,8 @@
         "royalty_usd": "Net Amount",
         "units": "Units",
         "songdex_id": "Vendor_ID",
-        "Overtime Adjusted Plays": "Units"
+        "Overtime Adjusted Plays": "Units",
+        "Share": "Share"
     },
     "CMRRA": {
         "header_row": 0,

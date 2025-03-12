@@ -54,7 +54,7 @@
         "Hfa Song Number": "Vendor_ID",
         "Song Title": "Work Title",
         "Hfa Commission Rate": "Rate",
-        "Writer": "Artist",
+        "Writer": "Publishing Entity",
         "Transaction Type": "Source"
     },
     "PRS": {

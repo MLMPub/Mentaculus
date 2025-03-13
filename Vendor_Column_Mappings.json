@@ -184,7 +184,6 @@
         "Royalty (USD)": "Net Amount",
         "MRI Song ID": "Vendor_ID",
         "Exchange Rate (USD)": "Rate",
-        "Songdex ID": "Vendor_ID",
         "Royalty": "Net Amount"
     },
     "CMRRA": {

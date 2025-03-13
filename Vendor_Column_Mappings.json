@@ -183,7 +183,8 @@
         "Overtime Adjusted Plays": "Units",
         "Share": "Share",
         "MLC Song ID": "Vendor_ID",
-        "Royalty (USD)": "Net Amount"
+        "Royalty (USD)": "Net Amount",
+        "MRI Song ID": "Vendor_ID"
     },
     "CMRRA": {
         "header_row": 0,

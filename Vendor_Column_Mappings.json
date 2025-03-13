@@ -184,7 +184,8 @@
         "Share": "Share",
         "MLC Song ID": "Vendor_ID",
         "Royalty (USD)": "Net Amount",
-        "MRI Song ID": "Vendor_ID"
+        "MRI Song ID": "Vendor_ID",
+        "Exchange Rate (USD)": "Rate"
     },
     "CMRRA": {
         "header_row": 0,

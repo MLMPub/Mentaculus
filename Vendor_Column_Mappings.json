@@ -183,7 +183,8 @@
         "MLC Song ID": "Vendor_ID",
         "Royalty (USD)": "Net Amount",
         "MRI Song ID": "Vendor_ID",
-        "Exchange Rate (USD)": "Rate"
+        "Exchange Rate (USD)": "Rate",
+        "Songdex ID": "Vendor_ID"
     },
     "CMRRA": {
         "header_row": 0,

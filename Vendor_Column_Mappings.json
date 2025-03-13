@@ -182,7 +182,8 @@
         "songdex_id": "Vendor_ID",
         "Overtime Adjusted Plays": "Units",
         "Share": "Share",
-        "MLC Song ID": "Vendor_ID"
+        "MLC Song ID": "Vendor_ID",
+        "Royalty (USD)": "Net Amount"
     },
     "CMRRA": {
         "header_row": 0,

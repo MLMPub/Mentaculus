@@ -163,7 +163,6 @@
         "song_title": "Work Title",
         "member_name": "Publishing Entity",
         "isrc": "Vendor_ID",
-        "ISRC": "Vendor_ID",
         "Territory": "Intl Vendor Territory",
         "amount": "Net Amount",
         "service_name": "Source",

@@ -181,7 +181,8 @@
         "units": "Units",
         "songdex_id": "Vendor_ID",
         "Overtime Adjusted Plays": "Units",
-        "Share": "Share"
+        "Share": "Share",
+        "MLC Song ID": "Vendor_ID"
     },
     "CMRRA": {
         "header_row": 0,

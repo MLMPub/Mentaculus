@@ -185,7 +185,7 @@
         "MRI Song ID": "Vendor_ID",
         "Exchange Rate (USD)": "Rate",
         "Royalty": "Net Amount",
-        "Plays": "Units"
+        "Songdex ID": "Vendor_ID"
     },
     "CMRRA": {
         "header_row": 0,

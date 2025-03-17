@@ -552,6 +552,7 @@
         "Net Amount": "Intl Vendor Net In Source Currency",
         "Gross Amount": "Intl Vendor Gross In Source Currency",
         "Licensee": "Source",
-        "Units": "Units"
+        "Units": "Units",
+        "Share%": "Share"
     }
 }

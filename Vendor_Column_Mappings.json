@@ -284,7 +284,8 @@
         "Net amount": "Intl Vendor Net In Source Currency",
         "Usage": "Units",
         "Share rightowner": "Share",
-        "Name distribution": "Source"
+        "Name distribution": "Source",
+        "MusicUserName": "Source"
     },
     "UBISOFT": {
         "header_row": 11,

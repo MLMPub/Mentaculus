@@ -109,7 +109,8 @@
         "IP2": "Publishing Entity",
         "IP3": "Publishing Entity",
         "IP4": "Publishing Entity",
-        "Tunecode": "Vendor_ID"
+        "Tunecode": "Vendor_ID",
+        "Product Title": "Work Title"
     },
     "MLC": {
         "header_row": 0,

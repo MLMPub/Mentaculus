@@ -541,8 +541,8 @@
         "AMOUNT IN N.I.S.": "Intl Vendor Net In Source Currency",
         "ROYALTIES IN N.I.S.": "Intl Vendor Net In Source Currency",
         "TOTAL AMOUNT N.I.S.": "Intl Vendor Net In Source Currency"
-        },
-"PLUM TREE": {
+    },
+    "PLUM TREE": {
         "header_row": 0,
         "division_factor": 1,
         "Song": "Work Title",
@@ -550,6 +550,7 @@
         "Country": "Intl Vendor Territory",
         "Desc": "Source",
         "Net Amount": "Intl Vendor Net In Source Currency",
-        "Gross Amount": "Intl Vendor Gross In Source Currency"
+        "Gross Amount": "Intl Vendor Gross In Source Currency",
+        "Licensee": "Source"
     }
 }

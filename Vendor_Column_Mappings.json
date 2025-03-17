@@ -284,7 +284,8 @@
         "Usage": "Units",
         "Share rightowner": "Share",
         "Country (usage)": "Intl Vendor Territory",
-        "Name IPI-name": "Publishing Entity"
+        "Name IPI-name": "Publishing Entity",
+        "Description of distribution category": "Source"
     },
     "UBISOFT": {
         "header_row": 11,

@@ -285,7 +285,8 @@
         "Usage": "Units",
         "Share rightowner": "Share",
         "Name distribution": "Source",
-        "MusicUserName": "Source"
+        "MusicUserName": "Source",
+        "Country (usage)": "Intl Vendor Territory"
     },
     "UBISOFT": {
         "header_row": 11,

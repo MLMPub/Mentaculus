@@ -516,7 +516,8 @@
         "X.4": "Work Title",
         "X.19": "Intl Vendor Net In Source Currency",
         "Publishing Entity": "Publishing Entity",
-        "Vendor ID": "Vendor_ID"
+        "Vendor ID": "Vendor_ID",
+        "Song Title": "Work Title"
     },
     "ACUM": {
         "header_row": 0,

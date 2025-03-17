@@ -349,7 +349,8 @@
         "Amount Earned": "Intl Vendor Net In Source Currency",
         "Units": "Units",
         "Territory": "Intl Vendor Territory",
-        "Amount Received": "Intl Vendor Gross In Source Currency"
+        "Amount Received": "Intl Vendor Gross In Source Currency",
+        "Song Composer(s)": "Publishing Entity"
     },
     "PFIVE": {
         "header_row": 7,

@@ -551,6 +551,7 @@
         "Desc": "Source",
         "Net Amount": "Intl Vendor Net In Source Currency",
         "Gross Amount": "Intl Vendor Gross In Source Currency",
-        "Licensee": "Source"
+        "Licensee": "Source",
+        "Units": "Units"
     }
 }

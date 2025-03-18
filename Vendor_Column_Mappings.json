@@ -555,6 +555,7 @@
         "Units": "Units",
         "Share%": "Share",
         "GrossAmount": "Intl Vendor Gross In Source Currency",
-        "Amount.1": "Intl Vendor Net In Source Currency"
+        "Amount.1": "Intl Vendor Net In Source Currency",
+        "Amount": "Intl Vendor Gross In Source Currency"
     }
 }

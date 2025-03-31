@@ -402,12 +402,11 @@
         "Publisher": "Publishing Entity",
         "LyricFind Song Number": "Vendor_ID",
         "LyricFind Title": "Work Title",
-        "LyricFind Artist": "Publishing Entity",
+        "LyricFind Artist": "Artist",
         "Territory": "Intl Vendor Territory",
         "Royalty Share": "Share",
         "Total Payable Post Adjustment": "Net Amount",
         "Total Payable": "Net Amount",
-        "Publisher Name": "Publishing Entity",
         "Adjustment Usage": "Units",
         "Total Usage": "Units",
         "Publisher Song Number": "fk_ALT_songID_lookup"

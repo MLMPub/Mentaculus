@@ -402,7 +402,7 @@
         "Publisher": "Publishing Entity",
         "LyricFind Song Number": "Vendor_ID",
         "LyricFind Title": "Work Title",
-        "LyricFind Artist": "Artist",
+        "LyricFind Artist": "Publishing Entity",
         "Territory": "Intl Vendor Territory",
         "Royalty Share": "Share",
         "Total Payable Post Adjustment": "Net Amount",

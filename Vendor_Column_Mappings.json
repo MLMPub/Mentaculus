@@ -409,7 +409,8 @@
         "Total Payable": "Net Amount",
         "Adjustment Usage": "Units",
         "Total Usage": "Units",
-        "Publisher Song Number": "fk_ALT_songID_lookup"
+        "Publisher Song Number": "fk_ALT_songID_lookup",
+        "Mechanical Share": "Share"
     },
     "UNIVERSAL": {
         "header_row": 0,

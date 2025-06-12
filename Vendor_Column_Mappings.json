@@ -119,7 +119,8 @@
         "Number of Usages": "Units",
         "ISWC": "ISWC",
         "Territory": "Intl Vendor Territory",
-        "Distributed Amount": "Net Amount"
+        "Distributed Amount": "Net Amount",
+        "Work Writer List": "Publishing Entity"
     },
     "SESAC": {
         "header_row": 0,

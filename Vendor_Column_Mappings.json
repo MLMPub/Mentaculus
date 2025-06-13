@@ -252,8 +252,7 @@
         "Title": "Work Title",
         "Rate": "Rate",
         "Share": "Share",
-        "Final Received": "Net Amount",
-        "Songwriters": "Publishing Entity"
+        "Final Received": "Net Amount"
     },
     "CROSSCLEAR": {
         "header_row": 0,

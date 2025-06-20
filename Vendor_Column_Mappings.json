@@ -244,7 +244,8 @@
         "Ammount": "Intl Vendor Net In Source Currency",
         "IPBaseNameAndKey": "Publishing Entity",
         "IceWorkKey": "Vendor_ID",
-        "WorkTitleKey": "Work Title"
+        "WorkTitleKey": "Work Title",
+        "Share": "Share"
     },
     "OMNISONIC": {
         "header_row": 3,

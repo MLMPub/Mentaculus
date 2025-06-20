@@ -245,7 +245,8 @@
         "IPBaseNameAndKey": "Publishing Entity",
         "IceWorkKey": "Vendor_ID",
         "WorkTitleKey": "Work Title",
-        "Share": "Share"
+        "Share": "Share",
+        "Work key": "Vendor_ID"
     },
     "OMNISONIC": {
         "header_row": 3,

@@ -183,7 +183,8 @@
         "Royalty": "Net Amount",
         "Songdex ID": "Vendor_ID",
         "Plays": "Units",
-        "track_title": "Work Title"
+        "track_title": "Work Title",
+        "publisher": "Publishing Entity"
     },
     "CMRRA": {
         "header_row": 0,

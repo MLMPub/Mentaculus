@@ -182,7 +182,8 @@
         "Exchange Rate (USD)": "Rate",
         "Royalty": "Net Amount",
         "Songdex ID": "Vendor_ID",
-        "Plays": "Units"
+        "Plays": "Units",
+        "track_title": "Work Title"
     },
     "CMRRA": {
         "header_row": 0,

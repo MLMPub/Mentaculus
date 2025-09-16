@@ -184,7 +184,8 @@
         "Songdex ID": "Vendor_ID",
         "Plays": "Units",
         "track_title": "Work Title",
-        "publisher": "Publishing Entity"
+        "publisher": "Publishing Entity",
+        "work_number": "Vendor_ID"
     },
     "CMRRA": {
         "header_row": 0,

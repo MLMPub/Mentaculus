@@ -71,10 +71,10 @@
         "Share(%)": "Share",
         "Gross Amount": "Intl Vendor Gross In Source Currency",
         "Nett Amount": "Intl Vendor Net In Source Currency",
-        "Manufacturer Name": "Source",
         "Work Title": "Work Title",
         "Usage Summary": "Intl Vendor Territory",
         "Amount (performance revenue)": "Intl Vendor Net In Source Currency",
+        "Share": "Share",
         "Number of Perfs": "Units",
         "IP1": "Publishing Entity",
         "IP2": "Publishing Entity",
@@ -82,8 +82,7 @@
         "IP4": "Publishing Entity",
         "Tunecode": "Vendor_ID",
         "ISWC": "ISWC",
-        "Artist": "Artist",
-        "Territory Name": "Intl Vendor Territory"
+        "Artist": "Artist"
     },
     "MCPS": {
         "header_row": 0,

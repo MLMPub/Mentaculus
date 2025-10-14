@@ -287,7 +287,8 @@
         "Share rightowner": "Share",
         "Country (usage)": "Intl Vendor Territory",
         "Description of distribution category": "Source",
-        "Co rightowner(s)": "Publishing Entity"
+        "Co rightowner(s)": "Publishing Entity",
+        "Gross amount": "Intl Vendor Gross In Source Currency"
     },
     "UBISOFT": {
         "header_row": 11,

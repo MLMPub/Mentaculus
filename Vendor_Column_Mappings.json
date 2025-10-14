@@ -287,7 +287,8 @@
         "Share rightowner": "Share",
         "Country (usage)": "Intl Vendor Territory",
         "Name IPI-name": "Publishing Entity",
-        "Description of distribution category": "Source"
+        "Description of distribution category": "Source",
+        "Co rightowner(s)": "Publishing Entity"
     },
     "UBISOFT": {
         "header_row": 11,

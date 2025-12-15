@@ -416,7 +416,8 @@
         "Adjustment Usage": "Units",
         "Total Usage": "Units",
         "Publisher Song Number": "fk_ALT_songID_lookup",
-        "Mechanical Share": "Share"
+        "Mechanical Share": "Share",
+        "Total Mechanical Share Post Adjustment": "Share"
     },
     "UNIVERSAL": {
         "header_row": 0,

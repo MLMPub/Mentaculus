@@ -321,7 +321,8 @@
         "Writers": "Publishing Entity",
         "writers": "Publishing Entity",
         "artist": "Publishing Entity",
-        "ISWC": "ISWC"
+        "ISWC": "ISWC",
+        "Net Amount": "Net Amount"
     },
     "ROBA": {
         "header_row": 0,

@@ -565,5 +565,16 @@
         "GrossAmount": "Intl Vendor Gross In Source Currency",
         "Amount.1": "Intl Vendor Net In Source Currency",
         "Amount": "Intl Vendor Gross In Source Currency"
+    },
+        "LEGACY": {
+        "header_row": 0,
+        "division_factor": 1,
+        "Composed By": "Publishing Entity",
+        "Song Title": "Work Title",
+        "ReleaseID": "Vendor_ID",
+        "Percent Ownership": "Share",
+        "Quantity": "Units",
+        "Amount Sent (All Owners)": "Net Amount",
+        "Published By": "Publishing Entity",
     }
 }

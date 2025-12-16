@@ -158,7 +158,6 @@
         "royalty_payable": "Net Amount",
         "song_title": "Work Title",
         "member_name": "Publishing Entity",
-        "isrc": "Vendor_ID",
         "Territory": "Intl Vendor Territory",
         "amount": "Net Amount",
         "service_name": "Source",
@@ -550,7 +549,7 @@
         "ROYALTIES IN N.I.S.": "Intl Vendor Net In Source Currency",
         "TOTAL AMOUNT N.I.S.": "Intl Vendor Net In Source Currency"
     },
-        "LEGACY": {
+    "LEGACY": {
         "header_row": 0,
         "division_factor": 1,
         "Composed By": "Publishing Entity",

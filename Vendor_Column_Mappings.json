@@ -186,7 +186,8 @@
         "work_number": "Vendor_ID",
         "MRI Song ID": "Vendor_ID",
         "publisher_share": "Share",
-        "Service": "Source"
+        "Service": "Source",
+        "Tier": "Source"
     },
     "CMRRA": {
         "header_row": 0,

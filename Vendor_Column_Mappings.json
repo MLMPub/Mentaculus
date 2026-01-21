@@ -251,7 +251,8 @@
         "IceWorkKey": "Vendor_ID",
         "WorkTitleKey": "Work Title",
         "Share": "Share",
-        "Work key": "Vendor_ID"
+        "Work key": "Vendor_ID",
+        "Original agreement - OLD": "Publishing Entity"
     },
     "OMNISONIC": {
         "header_row": 3,

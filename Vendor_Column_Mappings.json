@@ -261,7 +261,8 @@
         "Rate": "Rate",
         "Share": "Share",
         "Final Received": "Net Amount",
-        "Songwriters": "Publishing Entity"
+        "Songwriters": "Publishing Entity",
+        "Product Type": "Source"
     },
     "CROSSCLEAR": {
         "header_row": 0,

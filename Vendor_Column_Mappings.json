@@ -33,7 +33,8 @@
         "Performing Artist": "Artist",
         "CA%": "Share",
         "Member Share": "Share",
-        "Series Name": "ISWC"
+        "Series Name": "ISWC",
+        "Song Title": "Work Title"
     },
     "HFA": {
         "header_row": 0,

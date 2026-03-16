@@ -37,7 +37,8 @@
         "Song Title": "Work Title",
         "Song Code": "Vendor_ID",
         "Song Composer(s)": "Publishing Entity",
-        "Amount Earned": "Net Amount"
+        "Amount Earned": "Net Amount",
+        "Units": "Units"
     },
     "HFA": {
         "header_row": 0,

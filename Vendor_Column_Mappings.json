@@ -270,7 +270,8 @@
         "Song Title": "Work Title",
         "ISWC": "ISWC",
         "Payable Amount": "Net Amount",
-        "Writer Names": "Publishing Entity"
+        "Writer Names": "Publishing Entity",
+        "Song Cross ID": "Vendor_ID"
     },
     "MUSIC NOTES": {
         "header_row": 2,
@@ -556,6 +557,7 @@
     "LEGACY": {
         "header_row": 0,
         "division_factor": 1,
+        "Composed By": "Publishing Entity",
         "Song Title": "Work Title",
         "ReleaseID": "Vendor_ID",
         "Percent Ownership": "Share",

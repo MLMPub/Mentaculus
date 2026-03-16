@@ -38,7 +38,8 @@
         "Song Code": "Vendor_ID",
         "Song Composer(s)": "Publishing Entity",
         "Amount Earned": "Net Amount",
-        "Units": "Units"
+        "Units": "Units",
+        "ISRC": "ISWC"
     },
     "HFA": {
         "header_row": 0,

@@ -35,7 +35,8 @@
         "Member Share": "Share",
         "Series Name": "ISWC",
         "Song Title": "Work Title",
-        "Song Code": "Vendor_ID"
+        "Song Code": "Vendor_ID",
+        "Song Composer(s)": "Publishing Entity"
     },
     "HFA": {
         "header_row": 0,

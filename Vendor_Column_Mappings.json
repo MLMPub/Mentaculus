@@ -34,7 +34,8 @@
         "CA%": "Share",
         "Member Share": "Share",
         "Series Name": "ISWC",
-        "Song Title": "Work Title"
+        "Song Title": "Work Title",
+        "Song Code": "Vendor_ID"
     },
     "HFA": {
         "header_row": 0,

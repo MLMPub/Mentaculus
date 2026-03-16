@@ -36,7 +36,8 @@
         "Series Name": "ISWC",
         "Song Title": "Work Title",
         "Song Code": "Vendor_ID",
-        "Song Composer(s)": "Publishing Entity"
+        "Song Composer(s)": "Publishing Entity",
+        "Amount Earned": "Net Amount"
     },
     "HFA": {
         "header_row": 0,

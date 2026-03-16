@@ -39,7 +39,8 @@
         "Song Composer(s)": "Publishing Entity",
         "Amount Earned": "Net Amount",
         "Units": "Units",
-        "Artist": "Artist"
+        "Artist": "Artist",
+        "ISRC": "ISWC"
     },
     "HFA": {
         "header_row": 0,

@@ -46,7 +46,8 @@
         "ISRCWorkNumber": "ISWC",
         "MechAmountPer": "Net Amount",
         "PercSplit": "Share",
-        "Region": "Intl Vendor Territory"
+        "Region": "Intl Vendor Territory",
+        "Song": "Work Title"
     },
     "HFA": {
         "header_row": 0,

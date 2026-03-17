@@ -49,7 +49,8 @@
         "Region": "Intl Vendor Territory",
         "Song": "Work Title",
         "Composers": "Publishing Entity",
-        "Share": "Share"
+        "Share": "Share",
+        "Amount Payable": "Net Amount"
     },
     "HFA": {
         "header_row": 0,

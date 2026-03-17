@@ -48,7 +48,8 @@
         "PercSplit": "Share",
         "Region": "Intl Vendor Territory",
         "Song": "Work Title",
-        "Composers": "Publishing Entity"
+        "Composers": "Publishing Entity",
+        "Share": "Share"
     },
     "HFA": {
         "header_row": 0,

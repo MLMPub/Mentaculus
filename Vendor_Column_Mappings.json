@@ -42,7 +42,8 @@
         "Artist": "Artist",
         "ISRC": "ISWC",
         "Publisher": "Publishing Entity",
-        "TrackWorkName": "Work Title"
+        "TrackWorkName": "Work Title",
+        "ISRCWorkNumber": "ISWC"
     },
     "HFA": {
         "header_row": 0,

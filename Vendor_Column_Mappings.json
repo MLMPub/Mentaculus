@@ -41,8 +41,7 @@
         "Units": "Units",
         "Artist": "Artist",
         "ISRC": "ISWC",
-        "Publisher": "Publishing Entity",
-        "Title": "Work Title"
+        "Publisher": "Publishing Entity"
     },
     "HFA": {
         "header_row": 0,

@@ -45,7 +45,8 @@
         "TrackWorkName": "Work Title",
         "ISRCWorkNumber": "ISWC",
         "MechAmountPer": "Net Amount",
-        "PercSplit": "Share"
+        "PercSplit": "Share",
+        "Region": "Intl Vendor Territory"
     },
     "HFA": {
         "header_row": 0,

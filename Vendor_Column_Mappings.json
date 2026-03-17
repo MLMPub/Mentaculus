@@ -40,7 +40,8 @@
         "Amount Earned": "Net Amount",
         "Units": "Units",
         "Artist": "Artist",
-        "ISRC": "ISWC"
+        "ISRC": "ISWC",
+        "Publisher": "Publishing Entity"
     },
     "HFA": {
         "header_row": 0,

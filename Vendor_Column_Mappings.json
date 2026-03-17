@@ -47,7 +47,8 @@
         "MechAmountPer": "Net Amount",
         "PercSplit": "Share",
         "Region": "Intl Vendor Territory",
-        "Song": "Work Title"
+        "Song": "Work Title",
+        "Composers": "Publishing Entity"
     },
     "HFA": {
         "header_row": 0,

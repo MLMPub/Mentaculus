@@ -44,7 +44,8 @@
         "Publisher": "Publishing Entity",
         "TrackWorkName": "Work Title",
         "ISRCWorkNumber": "ISWC",
-        "MechAmountPer": "Net Amount"
+        "MechAmountPer": "Net Amount",
+        "PercSplit": "Share"
     },
     "HFA": {
         "header_row": 0,

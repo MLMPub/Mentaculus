@@ -509,7 +509,8 @@
         "Share": "Share",
         "Rate": "Rate",
         "Intl Vendor Net In Source Currency": "Intl Vendor Net In Source Currency",
-        "Intl Vendor Gross In Source Currency": "Intl Vendor Gross In Source Currency"
+        "Intl Vendor Gross In Source Currency": "Intl Vendor Gross In Source Currency",
+        "Due": "Intl Vendor Net In Source Currency"
     },
     "TRESONA": {
         "header_row": 0,

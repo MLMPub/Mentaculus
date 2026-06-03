@@ -427,7 +427,8 @@
         "Work title": "Work Title",
         "Work ID": "Vendor_ID",
         "Quantity": "Units",
-        "Original publishing catalogue": "Publishing Entity"
+        "Original publishing catalogue": "Publishing Entity",
+        "My rights (\u20ac)2": "Net Amount"
     },
     "LYRICFIND": {
         "header_row": 0,

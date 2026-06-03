@@ -426,7 +426,8 @@
         "intl gross in source currency": "Intl Vendor Gross In Source Currency",
         "Work title": "Work Title",
         "Work ID": "Vendor_ID",
-        "Quantity": "Units"
+        "Quantity": "Units",
+        "Original publishing catalogue": "Publishing Entity"
     },
     "LYRICFIND": {
         "header_row": 0,

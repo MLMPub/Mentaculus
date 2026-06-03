@@ -423,7 +423,8 @@
         "Publishing Entity": "Publishing Entity",
         "ISWC": "ISWC",
         "Source": "Source",
-        "intl gross in source currency": "Intl Vendor Gross In Source Currency"
+        "intl gross in source currency": "Intl Vendor Gross In Source Currency",
+        "Work title": "Work Title"
     },
     "LYRICFIND": {
         "header_row": 0,

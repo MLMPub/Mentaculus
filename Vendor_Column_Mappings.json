@@ -425,7 +425,8 @@
         "Source": "Source",
         "intl gross in source currency": "Intl Vendor Gross In Source Currency",
         "Work title": "Work Title",
-        "Work ID": "Vendor_ID"
+        "Work ID": "Vendor_ID",
+        "Quantity": "Units"
     },
     "LYRICFIND": {
         "header_row": 0,

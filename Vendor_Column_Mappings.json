@@ -424,7 +424,8 @@
         "ISWC": "ISWC",
         "Source": "Source",
         "intl gross in source currency": "Intl Vendor Gross In Source Currency",
-        "Work title": "Work Title"
+        "Work title": "Work Title",
+        "Work ID": "Vendor_ID"
     },
     "LYRICFIND": {
         "header_row": 0,

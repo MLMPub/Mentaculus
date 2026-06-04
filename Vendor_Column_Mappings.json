@@ -428,8 +428,8 @@
         "Work ID": "Vendor_ID",
         "Quantity": "Units",
         "Original publishing catalogue": "Publishing Entity",
-        "My rights (\u20ac)2": "Intl Vendor Net In Source Currency",
-        "My rights (\u20ac)": "Net Amount"
+        "My rights (\u20ac)2": "Net Amount",
+        "My rights (\u20ac)": "Intl Vendor Net In Source Currency"
     },
     "LYRICFIND": {
         "header_row": 0,

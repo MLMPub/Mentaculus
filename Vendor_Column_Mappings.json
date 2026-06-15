@@ -585,8 +585,7 @@
         "ReleaseID": "Vendor_ID",
         "Percent Ownership": "Share",
         "Quantity": "Units",
-        "Amount Sent (All Owners)": "Net Amount",
-        "Published By": "Publishing Entity"
+        "Amount Sent (All Owners)": "Net Amount"
     },
     "PLUM TREE": {
         "header_row": 0,

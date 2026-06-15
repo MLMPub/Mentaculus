@@ -281,7 +281,8 @@
         "Product Type": "Source",
         "TITLE": "Work Title",
         "SONGWRITERS": "Publishing Entity",
-        "PRODUCT TYPE": "Source"
+        "PRODUCT TYPE": "Source",
+        "RATE": "Rate"
     },
     "CROSSCLEAR": {
         "header_row": 0,

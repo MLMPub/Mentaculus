@@ -283,7 +283,8 @@
         "SONGWRITERS": "Publishing Entity",
         "PRODUCT TYPE": "Source",
         "RATE": "Rate",
-        "SHARE": "Share"
+        "SHARE": "Share",
+        "FINAL RECEIVED": "Net Amount"
     },
     "CROSSCLEAR": {
         "header_row": 0,

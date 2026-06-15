@@ -280,7 +280,8 @@
         "Songwriters": "Publishing Entity",
         "Product Type": "Source",
         "TITLE": "Work Title",
-        "SONGWRITERS": "Publishing Entity"
+        "SONGWRITERS": "Publishing Entity",
+        "PRODUCT TYPE": "Source"
     },
     "CROSSCLEAR": {
         "header_row": 0,

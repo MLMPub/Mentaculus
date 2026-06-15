@@ -279,7 +279,8 @@
         "Final Received": "Net Amount",
         "Songwriters": "Publishing Entity",
         "Product Type": "Source",
-        "TITLE": "Work Title"
+        "TITLE": "Work Title",
+        "SONGWRITERS": "Publishing Entity"
     },
     "CROSSCLEAR": {
         "header_row": 0,

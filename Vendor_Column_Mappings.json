@@ -282,7 +282,8 @@
         "TITLE": "Work Title",
         "SONGWRITERS": "Publishing Entity",
         "PRODUCT TYPE": "Source",
-        "RATE": "Rate"
+        "RATE": "Rate",
+        "SHARE": "Share"
     },
     "CROSSCLEAR": {
         "header_row": 0,

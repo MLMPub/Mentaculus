@@ -278,7 +278,8 @@
         "Share": "Share",
         "Final Received": "Net Amount",
         "Songwriters": "Publishing Entity",
-        "Product Type": "Source"
+        "Product Type": "Source",
+        "TITLE": "Work Title"
     },
     "CROSSCLEAR": {
         "header_row": 0,

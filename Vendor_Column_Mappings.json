@@ -294,7 +294,8 @@
         "Payable Amount": "Net Amount",
         "Writer Names": "Publishing Entity",
         "Song Cross ID": "Vendor_ID",
-        "Territory": "Intl Vendor Territory"
+        "Territory": "Intl Vendor Territory",
+        "ISRC": "ISWC"
     },
     "MUSIC NOTES": {
         "header_row": 2,

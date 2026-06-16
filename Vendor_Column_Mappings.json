@@ -297,7 +297,8 @@
         "Territory": "Intl Vendor Territory",
         "Song": "Work Title",
         "Composers": "Publishing Entity",
-        "Configuration": "Source"
+        "Configuration": "Source",
+        "Rate": "Rate"
     },
     "MUSIC NOTES": {
         "header_row": 2,

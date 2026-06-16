@@ -295,7 +295,8 @@
         "Writer Names": "Publishing Entity",
         "Song Cross ID": "Vendor_ID",
         "Territory": "Intl Vendor Territory",
-        "Song": "Work Title"
+        "Song": "Work Title",
+        "Composers": "Publishing Entity"
     },
     "MUSIC NOTES": {
         "header_row": 2,

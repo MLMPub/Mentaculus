@@ -301,7 +301,8 @@
         "Rate": "Rate",
         "Units": "Units",
         "Share": "Share",
-        "Amount Payable": "Net Amount"
+        "Amount Payable": "Net Amount",
+        "Song Code": "Vendor_ID"
     },
     "MUSIC NOTES": {
         "header_row": 2,

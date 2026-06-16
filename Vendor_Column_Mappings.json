@@ -300,7 +300,8 @@
         "Configuration": "Source",
         "Rate": "Rate",
         "Units": "Units",
-        "Share": "Share"
+        "Share": "Share",
+        "Amount Payable": "Net Amount"
     },
     "MUSIC NOTES": {
         "header_row": 2,

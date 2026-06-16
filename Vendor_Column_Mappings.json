@@ -298,7 +298,8 @@
         "Song": "Work Title",
         "Composers": "Publishing Entity",
         "Configuration": "Source",
-        "Rate": "Rate"
+        "Rate": "Rate",
+        "Units": "Units"
     },
     "MUSIC NOTES": {
         "header_row": 2,
